@@ -1,0 +1,38 @@
+---
+description: 不要慌，一步一步想，可以做出来
+---
+
+# 2. Add two numbers
+
+```
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode h1 = l1;
+        ListNode h2 = l2;
+        ListNode dummy = new ListNode(0);
+        ListNode cur = dummy;
+        int sum = 0;
+        
+        while(h1 != null || h2 != null)
+        {
+            sum /= 10;
+            if(h1 != null)
+            {
+                sum += h1.val;
+                h1 = h1.next;
+            }
+            if(h2 != null)
+            {
+                sum += h2.val;
+                h2 = h2.next;
+            }
+            cur.next = new ListNode(sum % 10);
+            cur = cur.next;
+        }
+        if(sum / 10 > 0)
+            cur.next = new ListNode(1);
+        
+        return dummy.next;
+    }
+}
+```
