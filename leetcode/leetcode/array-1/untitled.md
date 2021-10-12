@@ -1,5 +1,5 @@
 ---
-description: 是真不会这个算法
+description: 经典双指针
 ---
 
 # 26. Remove Duplicates from Sorted Array
