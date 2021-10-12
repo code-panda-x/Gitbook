@@ -313,3 +313,5 @@
   * [剑指 Offer 07. 重建二叉树](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-07.-zhong-jian-er-cha-shu.md)
   * [剑指 Offer 16. 数值的整数次方](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-16.-shu-zhi-de-zheng-shu-ci-fang.md)
   * [剑指 Offer 33. 二叉搜索树的后序遍历序列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-33.-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie.md)
+  * [剑指 Offer 15. 二进制中1的个数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-15.-er-jin-zhi-zhong-1-de-ge-shu.md)
+  * [剑指 Offer 65. 不用加减乘除做加法](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-65.-bu-yong-jia-jian-cheng-chu-zuo-jia-fa.md)

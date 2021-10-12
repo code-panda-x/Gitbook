@@ -1,5 +1,5 @@
 ---
-description: 自己多半写不出...
+description: copyofrange其实是复制从 0 至 index-1个elements     （arr, inclusive, exclusive）
 ---
 
 # 剑指 Offer 07. 重建二叉树

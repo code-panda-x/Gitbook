@@ -19,4 +19,4 @@ class Solution {
 }
 ```
 
-不会位运算
+位运算
