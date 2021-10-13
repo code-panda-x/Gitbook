@@ -37,6 +37,8 @@
   * [20. Valid Parentheses](leetcode/untitled/20.-valid-parentheses.md)
   * [21. Merge Two Sorted Lists](leetcode/untitled/21.-merge-two-sorted-lists.md)
   * [22. Generate Parentheses](leetcode/untitled/22.-generate-parentheses.md)
+  * [23. Merge k Sorted Lists](leetcode/untitled/23.-merge-k-sorted-lists.md)
+  * [25. Reverse Nodes in k-Group](leetcode/untitled/25.-reverse-nodes-in-k-group.md)
 * [Leetcode Explore](leetcode/leetcode/README.md)
   * [Array](leetcode/leetcode/array-1/README.md)
     * [1089. Duplicate Zeros](leetcode/leetcode/array-1/1089.-duplicate-zeros.md)
