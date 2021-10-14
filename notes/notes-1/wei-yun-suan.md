@@ -54,7 +54,20 @@ y & 1 == 0  y为偶数
 
 
 
+* 交换律
+* 结合律（即(a^b)^c == a^(b^c)）
+* 对于任何数x，都有x^x=0，x^0=x
+* 自反性 A XOR B XOR B = A xor 0 = A ---> A XOR B = C 则 C XOR B = A
 
+
+
+XOR
+
+![](<../../.gitbook/assets/image (35).png>)
+
+相同的数异或为0，不同的异或为1。0和任何数异或等于这个数本身。
+
+Z = X ^ Y
 
 
 
