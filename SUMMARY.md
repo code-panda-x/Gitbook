@@ -318,3 +318,5 @@
   * [剑指 Offer 15. 二进制中1的个数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-15.-er-jin-zhi-zhong-1-de-ge-shu.md)
   * [剑指 Offer 65. 不用加减乘除做加法](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-65.-bu-yong-jia-jian-cheng-chu-zuo-jia-fa.md)
   * [剑指 Offer 56 - II. 数组中数字出现的次数 II](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-56-ii.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii.md)
+  * [剑指 Offer 39. 数组中出现次数超过一半的数字](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-39.-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.md)
+  * [剑指 Offer 66. 构建乘积数组](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-66.-gou-jian-cheng-ji-shu-zu.md)
