@@ -320,3 +320,6 @@
   * [剑指 Offer 56 - II. 数组中数字出现的次数 II](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-56-ii.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii.md)
   * [剑指 Offer 39. 数组中出现次数超过一半的数字](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-39.-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.md)
   * [剑指 Offer 66. 构建乘积数组](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-66.-gou-jian-cheng-ji-shu-zu.md)
+  * [剑指 Offer 14- I. 剪绳子](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-14-i.-jian-sheng-zi.md)
+  * [剑指 Offer 57 - II. 和为s的连续正数序列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
+  * [剑指 Offer 62. 圆圈中最后剩下的数字](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-62.-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi.md)
