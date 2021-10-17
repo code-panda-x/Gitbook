@@ -1,5 +1,5 @@
 ---
-description: 非常明显的滑动窗口题，没有想到
+description: 看到连续，就应该想到滑动窗口
 ---
 
 # 剑指 Offer 57 - II. 和为s的连续正数序列

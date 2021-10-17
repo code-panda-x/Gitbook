@@ -323,3 +323,5 @@
   * [剑指 Offer 14- I. 剪绳子](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-14-i.-jian-sheng-zi.md)
   * [剑指 Offer 57 - II. 和为s的连续正数序列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
   * [剑指 Offer 62. 圆圈中最后剩下的数字](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-62.-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi.md)
+  * [剑指 Offer 29. 顺时针打印矩阵](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-29.-shun-shi-zhen-da-yin-ju-zhen.md)
+  * [剑指 Offer 31. 栈的压入、弹出序列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-31.-zhan-de-ya-ru-dan-chu-xu-lie.md)
