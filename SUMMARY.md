@@ -6,6 +6,7 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
+  * [Queue](notes/notes-1/queue.md)
   * [Backtrack](notes/notes-1/backtrack.md)
   * [Sort](notes/notes-1/sort.md)
   * [DP](notes/notes-1/dp.md)
@@ -325,3 +326,6 @@
   * [剑指 Offer 62. 圆圈中最后剩下的数字](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-62.-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi.md)
   * [剑指 Offer 29. 顺时针打印矩阵](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-29.-shun-shi-zhen-da-yin-ju-zhen.md)
   * [剑指 Offer 31. 栈的压入、弹出序列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-31.-zhan-de-ya-ru-dan-chu-xu-lie.md)
+  * [剑指 Offer 67. 把字符串转换成整数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-67.-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu.md)
+  * [剑指 Offer 59 - I. 滑动窗口的最大值](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-59-i.-hua-dong-chuang-kou-de-zui-da-zhi.md)
+  * [剑指 Offer 59 - II. 队列的最大值](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-59-ii.-dui-lie-de-zui-da-zhi.md)

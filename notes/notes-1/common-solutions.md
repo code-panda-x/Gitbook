@@ -16,6 +16,19 @@ Two pointers：Normally, if want to use two pointer, the array is sorted
 
 
 
+compare array 前后值可以这样：
+
+Arrays.sort : O(N lg N)
+
+```
+ Arrays.sort(nums);
+        for(int ind = 1; ind < nums.length; ind++) {
+            if(nums[ind] == nums[ind - 1]) {
+                return true;
+            }
+        }
+```
+
 找中间值
 
 
@@ -46,7 +59,7 @@ while(num != 0) { nums /= 10; count++; }
 
 
 
-往前 shift: 
+往前 shift:&#x20;
 
 ```
 for (int j; j < length; j++) {
@@ -74,5 +87,5 @@ Counting sort**：**Count the frequency hence sort the array
 
 桶分组：
 
-[https://leetcode-cn.com/problems/contains-duplicate-iii/solution/c-li-yong-tong-fen-zu-xiang-xi-jie-shi-b-ofj6/](https://leetcode-cn.com/problems/contains-duplicate-iii/solution/c-li-yong-tong-fen-zu-xiang-xi-jie-shi-b-ofj6/) 
+[https://leetcode-cn.com/problems/contains-duplicate-iii/solution/c-li-yong-tong-fen-zu-xiang-xi-jie-shi-b-ofj6/](https://leetcode-cn.com/problems/contains-duplicate-iii/solution/c-li-yong-tong-fen-zu-xiang-xi-jie-shi-b-ofj6/)&#x20;
 
