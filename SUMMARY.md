@@ -6,6 +6,7 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
+  * [permutation vs combination](notes/notes-1/permutation-vs-combination.md)
   * [Queue](notes/notes-1/queue.md)
   * [Backtrack](notes/notes-1/backtrack.md)
   * [Sort](notes/notes-1/sort.md)
@@ -329,3 +330,5 @@
   * [剑指 Offer 67. 把字符串转换成整数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-67.-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu.md)
   * [剑指 Offer 59 - I. 滑动窗口的最大值](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-59-i.-hua-dong-chuang-kou-de-zui-da-zhi.md)
   * [剑指 Offer 59 - II. 队列的最大值](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-59-ii.-dui-lie-de-zui-da-zhi.md)
+  * [剑指 Offer 37. 序列化二叉树](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-37.-xu-lie-hua-er-cha-shu.md)
+  * [剑指 Offer 38. 字符串的排列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
