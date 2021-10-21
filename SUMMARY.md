@@ -332,3 +332,5 @@
   * [剑指 Offer 59 - II. 队列的最大值](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-59-ii.-dui-lie-de-zui-da-zhi.md)
   * [剑指 Offer 37. 序列化二叉树](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-37.-xu-lie-hua-er-cha-shu.md)
   * [剑指 Offer 38. 字符串的排列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
+  * [剑指 Offer 49. 丑数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-49.-chou-shu.md)
+  * [Page 1](jian-zhi-offer/jian-zhi-offer/page-1.md)
