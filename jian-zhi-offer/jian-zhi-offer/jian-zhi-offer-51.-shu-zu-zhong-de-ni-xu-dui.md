@@ -2,6 +2,8 @@
 
 ![](<../../.gitbook/assets/image (35).png>)
 
+逆序对指的是\[2,1]， 2index < 1 ，但是2 > 1
+
 ```
 class Solution {
     int count;
