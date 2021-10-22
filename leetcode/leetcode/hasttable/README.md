@@ -1,6 +1,6 @@
 # HastTable
 
-**HashMap doesn't allow duplicate keys** but allows duplicate values. 
+**HashMap doesn't allow duplicate keys** but allows duplicate values.&#x20;
 
 If I pass the same key multiple times to `HashMap`’s `put` method, what happens to the original value? . --> Overwritten values for a key
 
@@ -12,4 +12,4 @@ Absolutely right. In hash set and hash map, Java first use object's hashCode() f
 
 map.containsValue: O(n)
 
-contains() / containsKey() : O(1) 
+contains() / containsKey() : O(1)&#x20;

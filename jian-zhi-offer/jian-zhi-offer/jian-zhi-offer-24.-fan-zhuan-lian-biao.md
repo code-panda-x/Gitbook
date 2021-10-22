@@ -1,6 +1,6 @@
 # 剑指 Offer 24. 反转链表
 
-Two pointers 
+Two pointers&#x20;
 
 ```
 /**
