@@ -2,7 +2,7 @@
 
 DP
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (2).png>)
 
 ```
 public int[] constructArr(int[] a) {
