@@ -48,9 +48,9 @@ class Solution {
 
 LinkedList tmp = new LinkedList<>();
 
-tmp.addLast(node.val); // 偶数层 -> 队列头部&#x20;
+tmp.addLast(node.val); // 偶数层 -> 队列头部 
 
-&#x20;tmp.addFirst(node.val);
+ tmp.addFirst(node.val);
 
 
 

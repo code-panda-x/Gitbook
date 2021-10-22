@@ -37,7 +37,7 @@ class Solution {
 
 ```
 
-2 Iteration&#x20;
+2 Iteration 
 
 ```
 class Solution {

@@ -55,6 +55,6 @@ size代表每一层node个数，size不会超过2，因为每次只有iteration�
 
     ```
 
-    &#x20;}
+     }
 
     }
