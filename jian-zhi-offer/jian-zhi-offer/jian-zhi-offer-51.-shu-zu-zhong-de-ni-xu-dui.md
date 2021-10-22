@@ -1,13 +1,12 @@
----
-description: merge sort 思想
----
-
 # 剑指 Offer 51. 数组中的逆序对
 
-&#x20;逆序对指的是\[2,1]， 2index < 1 ，但是2 > 1
+![](<../../.gitbook/assets/image (35).png>)
+
+逆序对指的是\[2,1]， 2index < 1 ，但是2 > 1
 
 ```
-int count;
+class Solution {
+    int count;
     public int reversePairs(int[] nums) {
         this.count = 0;
         merge(nums, 0, nums.length - 1);
@@ -50,4 +49,5 @@ int count;
             nums[k + left] = temparr[k];
         }
     }
+}
 ```
