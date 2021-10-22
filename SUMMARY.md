@@ -333,4 +333,6 @@
   * [剑指 Offer 37. 序列化二叉树](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-37.-xu-lie-hua-er-cha-shu.md)
   * [剑指 Offer 38. 字符串的排列](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
   * [剑指 Offer 49. 丑数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-49.-chou-shu.md)
-  * [Page 1](jian-zhi-offer/jian-zhi-offer/page-1.md)
+  * [剑指 Offer 60. n个骰子的点数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-60.nge-tou-zi-de-dian-shu.md)
+  * [剑指 Offer 17. 打印从1到最大的n位数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-17.-da-yin-cong-1-dao-zui-da-denwei-shu.md)
+  * [剑指 Offer 51. 数组中的逆序对](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-51.-shu-zu-zhong-de-ni-xu-dui.md)
