@@ -25,7 +25,7 @@ int sums(int x)
 
 Round up
 
-K / 2 + K % 2 
+K / 2 + K % 2&#x20;
 
 eg 3 / 2 + 3 % 2 = 2
 
@@ -61,8 +61,35 @@ public int quickPow(int x, int y) {
 
 
 
-## 数论
+循环求余
 
-1. 任何大于1的数都可由2和3相加组成（根据奇偶证明）
-2. 因为2\*2=1\*4，2\*3>1\*5, 所以将数字拆成2和3，能得到的积最大
-3. 因为2\*2\*2<3\*3, 所以3越多积越大 时间复杂度O(n/3)，用幂函数可以达到O(log(n/3)), 因为n不大，所以提升意义不大，我就没用。 空间复杂度常数复杂度O(1)
+
+
+```java
+// (x^a) % p —— 循环求余法。固定搭配建议背诵
+   public long  remainder(int x,int a,int p){  //x为底数，a为幂，p为要取的模
+        long rem = 1 ;
+        for (int i = 0; i < a; i++) {
+            rem = (rem * x) % p ;   
+        }
+        return rem;
+    }
+```
+
+\
+
+
+```
+# 求 (x^a) % p —— 快速幂求余
+def remainder(x, a, p):
+    rem = 1
+    while a > 0:
+        if a % 2: rem = (rem * x) % p
+        x = x ** 2 % p
+        a //= 2
+    return rem
+
+、
+```
+
+因为2\*2=1\*4，2\*3>1\*5, 所以将数字拆成2和3，能得到的积最大

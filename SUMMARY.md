@@ -336,3 +336,4 @@
   * [剑指 Offer 60. n个骰子的点数](jian-zhi-offer/jian-zhi-offer/page-1.md)
   * [剑指 Offer 17. 打印从1到最大的n位数](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-17.-da-yin-cong-1-dao-zui-da-denwei-shu.md)
   * [剑指 Offer 51. 数组中的逆序对](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-51.-shu-zu-zhong-de-ni-xu-dui.md)
+  * [剑指 Offer 14- II. 剪绳子 II](jian-zhi-offer/jian-zhi-offer/jian-zhi-offer-14-ii.-jian-sheng-zi-ii.md)
