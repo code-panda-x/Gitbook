@@ -4,7 +4,7 @@ description: 好像懂了，需要理解循环求余和快速幂求余
 
 # 剑指 Offer 14- II. 剪绳子 II
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (1).png>)
 
 3越多乘积越大
 
