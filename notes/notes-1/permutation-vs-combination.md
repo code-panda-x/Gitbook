@@ -4,7 +4,7 @@ In a permutation order matters, so the permutation (1 2 3) is not the same as (2
 
 In a combination order does not matter so the combination (2 3) is the same as (3 2).
 
-![](<../../.gitbook/assets/image (39) (1) (1).png>)
+![](<../../.gitbook/assets/image (39) (2).png>)
 
 Combination: 77
 
