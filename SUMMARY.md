@@ -6,7 +6,6 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
-  * [permutation vs combination](notes/notes-1/permutation-vs-combination.md)
   * [Queue](notes/notes-1/queue.md)
   * [Backtrack](notes/notes-1/backtrack.md)
   * [Sort](notes/notes-1/sort.md)
@@ -51,6 +50,10 @@
   * [42. Trapping Rain Water](leetcode/untitled/42.-trapping-rain-water.md)
   * [45. Jump Game II](leetcode/untitled/45.-jump-game-ii.md)
   * [46. Permutations](leetcode/untitled/46.-permutations.md)
+  * [48. Rotate Image](leetcode/untitled/48.-rotate-image.md)
+  * [49. Group Anagrams](leetcode/untitled/49.-group-anagrams.md)
+  * [55. Jump Game](leetcode/untitled/55.-jump-game.md)
+  * [56. Merge Intervals](leetcode/untitled/56.-merge-intervals.md)
 * [Leetcode Explore](leetcode/leetcode/README.md)
   * [Array](leetcode/leetcode/array-1/README.md)
     * [1089. Duplicate Zeros](leetcode/leetcode/array-1/1089.-duplicate-zeros.md)
