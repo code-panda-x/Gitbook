@@ -7,20 +7,29 @@ Remember: Row ↓ Column →
 
 
 
-二维数组 二维数组 转化
+1d --> 2d
 
 ```
-for (int x = 0; x < m * n; ++x) {
-            ans[x / c][x % c] = nums[x / n][x % n];
-        }
+int array2d[][] = new int[10][3];
+
+
+for(int i=0; i<10;i++)
+   for(int j=0;j<3;j++)
+       array2d[i][j] = array1d[(j*10) + i]; 
 ```
 
-二维数组 一维数组 转化
+2d --> 1d
 
 ```
 for (int r = 0; r < R; ++r)
     for (int c = 0; c < C; ++c)
             int code = r * C + c;  // 转化为索引唯一的一维数组
+```
+
+Reshape to any dimensions: 566
+
+```
+res[x / c][x % c] = mat[i][j];
 ```
 
 
