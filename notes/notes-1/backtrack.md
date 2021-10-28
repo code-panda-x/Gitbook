@@ -33,7 +33,7 @@ In a combination order does not matter so the combination (2 3) is the same as (
 
 Combination: 77
 
-combination总是要在for里update i，因为如果不update，下一次backtrack从0开始，会加入当前数字前出现的数字。因为combination不在乎order，这样是不行的。根据题意，加入当前重复的element也是可以的，见 39
+combination/subsets 总是要在for里update i，因为如果不update，下一次backtrack从0开始，会加入当前数字前出现的数字。因为combination不在乎order，这样是不行的。根据题意，加入当前重复的element也是可以的，见 39
 
 如何update i：
 
@@ -45,7 +45,6 @@ i 表示可以用重复的element
 
 
 
-
-
 Permutation: 46
 
+permutation是不需要start的

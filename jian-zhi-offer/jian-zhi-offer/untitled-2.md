@@ -18,43 +18,47 @@ size代表每一层node个数，size不会超过2，因为每次只有iteration�
 
 
 
+```
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        if(root == null)
+            return new ArrayList<>();
 
+        List<List<Integer>> result = new ArrayList<>();
+        
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
 
+        while(queue.size() != 0)
+        {
+            List<Integer> res = new ArrayList<>();
+            int size = queue.size();
 
+            for(int i = size; i > 0; i--)
+            {
+                TreeNode temp = queue.poll();
+                res.add(temp.val);
 
-*   ```
-    /**
-     * Definition for a binary tree node.
-     * public class TreeNode {
-     *     int val;
-     *     TreeNode left;
-     *     TreeNode right;
-     *     TreeNode(int x) { val = x; }
-     * }
-     */
-    class Solution {
-        public List<List<Integer>> levelOrder(TreeNode root) {
-            Queue<TreeNode> queue = new LinkedList<>();
-            List<List<Integer>> res = new ArrayList<>();
-            if(root != null) queue.add(root);
-            while(!queue.isEmpty()) {
-                List<Integer> tmp = new ArrayList<>();
-                int size = queue.size();
-                for(int i = 0;i < size; i++) {
-                    TreeNode node = queue.poll();
-                    tmp.add(node.val);
-                    if(node.left != null) queue.add(node.left);
-                    if(node.right != null) queue.add(node.right);
-                }
-                res.add(tmp);
+                if(temp.left != null)
+                    queue.add(temp.left);
+                if(temp.right != null)
+                    queue.add(temp.right);
+
             }
-            return res;
+            result.add(res);
         }
+
+
+        return result;
     }
-
-
-    ```
-
-     }
-
-    }
+}
+```

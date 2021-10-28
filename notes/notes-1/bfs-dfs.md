@@ -6,8 +6,6 @@
 
 DFS,BFS 惯用trick，向四个方向update index：
 
-
-
 ```
 int[] dx = new int[] {-1, 1, 0, 0};
         int[] dy = new int[] {0, 0, -1, 1};
@@ -26,12 +24,13 @@ int[] dx = new int[] {-1, 1, 0, 0};
                 }
             }
             
-         int[] curr = q.poll();
-        int r = curr[0], c = curr[1];
-        for (int i = 0; i < 4; ++i) {
-            int nr = r + DIR[i], nc = c + DIR[i+1];
-         
-               
+1. trick：一个1d数组搞定 int[] DIR = new int[]{0, 1, 0, -1, 0};   lc:542
+     int[] curr = q.poll();
+    int r = curr[0], c = curr[1];
+    for (int i = 0; i < 4; ++i) {
+        int nr = r + DIR[i], nc = c + DIR[i+1];
+     
+2. 一个2d数组搞定        
     cell = queue.poll();
     int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};. int[] 
     int i = cell[0], j = cell[1];
@@ -39,9 +38,18 @@ int[] dx = new int[] {-1, 1, 0, 0};
         int ni = i + dirs[d][0];
         int nj = j + dirs[d][1];
 
+3. 两个1d数组        
+    int[] rowOffsets = {0, 1, 0, -1};
+    int[] colOffsets = {1, 0, -1, 0};
+    for (int d = 0; d < 4; ++d) {
+      ret = this.backtrack(row + rowOffsets[d], col + colOffsets[d], word, index + 1);
+      if (ret)
+        break;
+    }
+
 ```
 
-DFS 
+DFS&#x20;
 
 template1
 
