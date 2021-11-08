@@ -71,6 +71,12 @@ Z = X ^ Y
 
 
 
+Java 里面 ^ 指的是xor
+
+\| 指的是or
+
+[https://blog.csdn.net/vebasan/article/details/6193916](https://blog.csdn.net/vebasan/article/details/6193916)
+
 Operator table
 
 
