@@ -10,6 +10,10 @@ description: Queue
 
 
 
+queue.add: 1 2 3 4
+
+queue.peek -> 1, peek总是取队首元素
+
 
 
 deque，即双端队列。很简单：

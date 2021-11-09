@@ -6,6 +6,8 @@ PriorityQueue: 说白了就是加进去一组数它自动帮你排序，每次po
 
 
 
+看到 Kth largest/smallest 应该想到用heap
+
 In summary, a heap:
 
 * Stores elements, and can find the smallest (min-heap) or largest (max-heap) element stored in O(1)
