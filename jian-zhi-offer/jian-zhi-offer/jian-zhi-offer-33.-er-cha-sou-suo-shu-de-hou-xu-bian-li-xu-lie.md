@@ -4,7 +4,7 @@ description: 双指针+递归
 
 # 剑指 Offer 33. 二叉搜索树的后序遍历序列
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 ```
 class Solution {

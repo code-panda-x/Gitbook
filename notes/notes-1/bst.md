@@ -5,7 +5,7 @@ description: >-
 
 # BST
 
-![](<../../.gitbook/assets/image (36) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1).png>)
 
 
 
