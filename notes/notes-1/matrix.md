@@ -1,7 +1,9 @@
 # Matrix
 
 \
-​![](https://gblobscdn.gitbook.com/assets%2F-McA66JiQfbctw5GMDEE%2F-Mh3jPKn2ierI0RJbTXM%2F-Mh3wzLYeSYlGtLz0rpX%2Fimage.png?alt=media\&token=b3e602ee-2f89-4f0b-8837-d4b7eefe25a5)‌
+​‌
+
+![](https://gblobscdn.gitbook.com/assets%2F-McA66JiQfbctw5GMDEE%2F-Mh3jPKn2ierI0RJbTXM%2F-Mh3wzLYeSYlGtLz0rpX%2Fimage.png?alt=media\&token=b3e602ee-2f89-4f0b-8837-d4b7eefe25a5)
 
 Remember: Row ↓ Column →
 

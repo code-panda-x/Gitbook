@@ -4,6 +4,8 @@ Two pointers：Normally, if want to use two pointer, the array is sorted
 
 
 
+当需要求array的一半 = 另一半，应该想到找sum / 2
+
 在if里面 &&的两个statement 顺序matters！，例子如下，如果颠倒顺序，无法通过
 
 ```

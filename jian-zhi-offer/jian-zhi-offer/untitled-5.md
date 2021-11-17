@@ -36,6 +36,7 @@ class Solution {
     public int maxSubArray(int[] nums) {
         int pre = 0, maxAns = nums[0];
         for (int x : nums) {
+        // 注意这里是pre+x 和 x，可以理解成一种贪心思想，如果加上pre小于当前，那就舍弃pre
             pre = Math.max(pre + x, x);
             maxAns = Math.max(maxAns, pre);
         }
