@@ -47,4 +47,19 @@ i 表示可以用重复的element
 
 Permutation: 46
 
-**permutation是不需要start的**
+**permutation是不需要start的，Instead 用if continue去重**
+
+```
+if(perm.contains(nums[i]))
+    continue;
+```
+
+
+
+Why new arraylist?
+
+When we assign a object in java, only the object reference is copied. In this is if we don't do combs.add(new ArrayList(comb), comb reference is added inside combs. In each basecase, comb is being modified. and in the last case, comb becomes empty. So, if we use combs.add(comb) instead of combs.add(new ArrayList(comb), in result will all be empty.
+
+
+
+If you don't have the "new" keyword, each array you add to combs is going to reference the same array, and since we ultimately end up removing each element from the "comb" arraylist we're using to build our combinations, you end up with a list of empty lists. By adding the "new" keyword, it generates a brand new list, not linked to the "comb" reference.
