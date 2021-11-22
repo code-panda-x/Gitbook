@@ -1,5 +1,15 @@
 # array
 
+
+
+Use two pointers (Usually Operate backwards From right to left!)
+
+Use one pointer and rewrite the array in place&#x20;
+
+If can't come up with in place, create a new array
+
+
+
 Two pointers：Normally, if want to use two pointer, the array is sorted
 
 

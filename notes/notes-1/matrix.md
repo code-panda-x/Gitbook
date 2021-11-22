@@ -36,6 +36,16 @@ res[x / c][x % c] = mat[i][j];
 
 
 
+重塑matrix
+
+```
+for (int x = 0; x < m * n; ++x) {
+            ans[x / c][x % c] = nums[x / n][x % n];
+        }
+
+
+```
+
 九宫格
 
 ```
