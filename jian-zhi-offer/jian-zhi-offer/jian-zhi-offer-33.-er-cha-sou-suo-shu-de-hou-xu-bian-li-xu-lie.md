@@ -6,6 +6,10 @@ description: 双指针+递归
 
 ![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
+抽象的理解为爬山，右子树的片段为一个peek，大于其左右的所有node
+
+p 为pointer，先traverse左子树，找到mid，再traverse右子树。最终p应该在根节点/array的最后
+
 ```
 class Solution {
     public boolean verifyPostorder(int[] postorder) {
