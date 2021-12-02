@@ -6,6 +6,7 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
+  * [General](notes/notes-1/general.md)
   * [Hash](notes/notes-1/hash.md)
   * [Binary Search](notes/notes-1/binary-search.md)
   * [Queue](notes/notes-1/queue.md)
