@@ -6,6 +6,7 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
+  * [Sliding window](notes/notes-1/sliding-window.md)
   * [General](notes/notes-1/general.md)
   * [Hash](notes/notes-1/hash.md)
   * [Binary Search](notes/notes-1/binary-search.md)
