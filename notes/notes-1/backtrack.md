@@ -23,6 +23,8 @@ Common problems and solutions
 
 {% embed url="https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)" %}
 
+[https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
+
 In a permutation order matters, so the permutation (1 2 3) is not the same as (2 1 3).&#x20;
 
 In a combination order does not matter so the combination (2 3) is the same as (3 2).

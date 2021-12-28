@@ -15,7 +15,7 @@ if (deque.peekFirst() == nums[i - k])   deque.removeFirst();
 
 形成窗口后，设右边界为 i ，则左边移出窗口的元素为 i - k 。这里的意思是，若移出窗口的元素等于 deque 队首元素，则出队，以保证 deque 内只包含窗口内的元素。
 
-
+Deque单调递减，deque里面的元素从大到小排列
 
 ```
 class Solution {
@@ -57,6 +57,9 @@ class Solution {
         return arr;
     }
 }
+
+Time O(N) 每一个元素恰好被放入队列一次，并且最多被弹出队列一次
+Space O(K)
 ```
 
 动画：[https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/dong-hua-yan-shi-dan-diao-dui-lie-jian-z-unpy/](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/dong-hua-yan-shi-dan-diao-dui-lie-jian-z-unpy/)
