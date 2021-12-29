@@ -30,4 +30,41 @@ public int nthUglyNumber(int n) {
         }
         return ugly;
     }
+    
+时间复杂度：O(nlogn)。得到第 n 个丑数需要进行 n 次循环，每次循环都要从最小堆中取出 1 个元素以及向最小堆中加入最多 3 个元素
+
+空间复杂度：O(n)。空间复杂度主要取决于最小堆和哈希集合的大小，最小堆和哈希集合的大小都不会超过 3n。
+
+```
+
+DP 3 pointers
+
+```
+class Solution {
+    public int nthUglyNumber(int n) {
+        int[] dp = new int[n + 1];
+        dp[1] = 1;
+        int p2 = 1, p3 = 1, p5 = 1;
+        for (int i = 2; i <= n; i++) {
+            int num2 = dp[p2] * 2, num3 = dp[p3] * 3, num5 = dp[p5] * 5;
+            dp[i] = Math.min(Math.min(num2, num3), num5);
+            if (dp[i] == num2) {
+                p2++;
+            }
+            if (dp[i] == num3) {
+                p3++;
+            }
+            if (dp[i] == num5) {
+                p5++;
+            }
+        }
+        return dp[n];
+    }
+}
+
+
+链接：https://leetcode-cn.com/problems/chou-shu-lcof/solution/chou-shu-by-leetcode-solution-0e5i/
+
+On
+On
 ```

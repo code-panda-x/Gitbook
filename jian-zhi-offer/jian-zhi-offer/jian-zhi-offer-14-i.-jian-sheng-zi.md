@@ -4,7 +4,7 @@ description: DP搞求不懂
 
 # 剑指 Offer 14- I. 剪绳子
 
-绳子段切分的越多，乘积越大，且3做因数比2更优。
+绳子段切分的越多，乘积越大，且3做因数比2更优。【不理解数学证明】
 
 不断剪去 长度3 并用sum累乘
 
@@ -42,6 +42,7 @@ public int cuttingRope(int n) {
 
         return sum*n;
     }
+时间复杂度为O(n)，空间复杂度为O(1).
 ```
 
 DP
@@ -67,4 +68,6 @@ class Solution {
         return dp[n];
     }
 }
+
+时间复杂度为O(n^2),空间复杂度为O(n)。
 ```

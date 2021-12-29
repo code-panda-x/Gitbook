@@ -25,7 +25,7 @@ Binary Search is generally composed of 3 main sections:
 
 Template1:
 
-* Initial Condition:` left = 0, right = length-1`
+* Initial Condition: `left = 0, right = length-1`
 * Termination: `left > right`
 * Searching Left: `right = mid-1`
 * Searching Right: `left = mid+1`
@@ -91,7 +91,7 @@ Template 3
 
 
 
-* Initial Condition:` left = 0, right = length-1`
+* Initial Condition: `left = 0, right = length-1`
 * Termination: `left + 1 == right`
 * Searching Left: `right = mid`
 * Searching Right: `left = mid`
@@ -123,6 +123,8 @@ int binarySearch(int[] nums, int target) {
 ```
 
 ![](<../../.gitbook/assets/image (10).png>)
+
+一般都是 left <= right， mid + 1 mid - 1
 
 记住：
 

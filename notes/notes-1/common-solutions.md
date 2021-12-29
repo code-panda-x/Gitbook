@@ -91,7 +91,7 @@ for(int j = arr.length - 2; j > i; j--)
 
 ****
 
-**Array: **
+**Array:**&#x20;
 
 Counting sort**：**Count the frequency hence sort the array
 
