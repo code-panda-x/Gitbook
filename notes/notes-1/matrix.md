@@ -84,3 +84,16 @@ Matrix Rotate: Most of the time dealing with transpose
 
 [https://leetcode.com/problems/rotate-image/discuss/18872/A-common-method-to-rotate-the-image](https://leetcode.com/problems/rotate-image/discuss/18872/A-common-method-to-rotate-the-image)
 
+
+
+reverse所有column
+
+```
+while(l < r){
+    int temp[] = matrix[l];
+    matrix[l] = matrix[r];
+    matrix[r] = temp;
+    l++;
+    r--;
+}
+```

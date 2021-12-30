@@ -37,4 +37,19 @@ class Solution {
 
 idx 0 1 2 3 4 5
 dp. 0.1 2 3.5 8
+
+
+class Solution {
+    public int maxSubArray(int[] A) {   
+       int [] dp = new int [A.length];
+        dp[0] = A[0];
+        int max = dp[0];
+        
+        for(int i = 1; i < A.length; i++){
+            dp[i] = Math.max(A[i], A[i] + dp[i-1]);
+            max = Math.max(max, dp[i]);
+        }
+        return max;
+    }
+}
 ```
