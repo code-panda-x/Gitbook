@@ -69,6 +69,7 @@
   * [79. Word Search](leetcode/untitled/79.-word-search.md)
   * [84. Largest Rectangle in Histogram](leetcode/untitled/84.-largest-rectangle-in-histogram.md)
   * [85. Maximal Rectangle](leetcode/untitled/85.-maximal-rectangle.md)
+  * [94. Binary Tree Inorder Traversal](leetcode/untitled/94.-binary-tree-inorder-traversal.md)
   * [96. Unique Binary Search Trees](leetcode/untitled/96.-unique-binary-search-trees.md)
   * [98. Validate Binary Search Tree](leetcode/untitled/98.-validate-binary-search-tree.md)
   * [101. Symmetric Tree](leetcode/untitled/101.-symmetric-tree.md)

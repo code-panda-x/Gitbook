@@ -1,9 +1,10 @@
 ---
-description: >-
-  https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/
+description: 一般来说BT的complexity都是O(N)
 ---
 
 # BST
+
+[https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/)
 
 ![](<../../.gitbook/assets/image (36) (1) (1).png>)
 
