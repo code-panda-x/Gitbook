@@ -4,6 +4,8 @@
 
 快慢指针
 
+while(fast != null && fast.next != null)
+
 Two pointer
 
 In our previous finding cycle example, let's assume that we move the faster pointer 2 steps each time and move the slower pointer 1 step each time.
@@ -32,6 +34,8 @@ head = next;
 = 表示“变成”
 .next = 表示“指向”
 ```
+
+while里面最后一步必然要update cur
 
 有时候会忘了cur = cur.next;
 
