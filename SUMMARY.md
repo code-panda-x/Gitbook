@@ -25,6 +25,7 @@
   * [BFS DFS](notes/notes-1/bfs-dfs.md)
   * [位运算](notes/notes-1/wei-yun-suan.md)
   * [Digital logic](notes/notes-1/digital-logic.md)
+  * [Trie](notes/notes-1/trie.md)
 
 ## Leetcode
 
@@ -96,9 +97,9 @@
   * [199. Binary Tree Right Side View](leetcode/untitled/199.-binary-tree-right-side-view.md)
   * [200. Number of Islands](leetcode/untitled/200.-number-of-islands.md)
   * [206. Reverse Linked List](leetcode/untitled/206.-reverse-linked-list.md)
-  * [207](leetcode/untitled/207.md)
-  * [208](leetcode/untitled/208.md)
-  * [210](leetcode/untitled/210.md)
+  * [207. Course Schedule](leetcode/untitled/207.-course-schedule.md)
+  * [208. Implement Trie (Prefix Tree)](leetcode/untitled/208.-implement-trie-prefix-tree.md)
+  * [210. Course Schedule II](leetcode/untitled/210.-course-schedule-ii.md)
   * [215. Kth Largest Element in an Array](leetcode/untitled/215.-kth-largest-element-in-an-array.md)
   * [221. Maximal Square](leetcode/untitled/221.-maximal-square.md)
   * [226. Invert Binary Tree](leetcode/untitled/226.-invert-binary-tree.md)
