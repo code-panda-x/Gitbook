@@ -5,6 +5,7 @@
 ## Notes
 
 * [Questions](notes/questions.md)
+* [经验总结](notes/jing-yan-zong-jie.md)
 * [Notes](notes/notes-1/README.md)
   * [Sliding window](notes/notes-1/sliding-window.md)
   * [General](notes/notes-1/general.md)
@@ -26,6 +27,7 @@
   * [位运算](notes/notes-1/wei-yun-suan.md)
   * [Digital logic](notes/notes-1/digital-logic.md)
   * [Trie](notes/notes-1/trie.md)
+  * [Sort](notes/notes-1/sort-1.md)
 
 ## Leetcode
 

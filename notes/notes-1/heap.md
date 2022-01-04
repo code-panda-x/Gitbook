@@ -17,3 +17,15 @@ In summary, a heap:
 * Stores elements, and can find the smallest (min-heap) or largest (max-heap) element stored in O(1)
 * Can add elements and remove the smallest (min-heap) or largest (max-heap) element in O(log(n))
 * Can perform insertions and removals while always maintaining the first property.
+
+
+
+利用heap sort **map**
+
+```
+Map<Integer, Integer> count = new HashMap();
+        for (int n: nums) 
+          count.put(n, count.getOrDefault(n, 0) + 1);
+Queue<Integer> heap = new PriorityQueue<>((n1, n2) -> count.get(n1) - count.get(n2));
+
+```
