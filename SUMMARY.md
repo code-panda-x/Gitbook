@@ -466,3 +466,8 @@
   * [98. Validate Binary Search Tree](tag/er-cha-shu/98.-validate-binary-search-tree.md)
   * [530. Minimum Absolute Difference in BST](tag/er-cha-shu/530.-minimum-absolute-difference-in-bst.md)
   * [501. Find Mode in Binary Search Tree](tag/er-cha-shu/501.-find-mode-in-binary-search-tree.md)
+  * [236. Lowest Common Ancestor of a Binary Tree](tag/er-cha-shu/236.-lowest-common-ancestor-of-a-binary-tree.md)
+  * [652. Find Duplicate Subtrees](tag/er-cha-shu/652.-find-duplicate-subtrees.md)
+  * [230. Kth Smallest Element in a BST](tag/er-cha-shu/230.-kth-smallest-element-in-a-bst.md)
+  * [538. Convert BST to Greater Tree](tag/er-cha-shu/538.-convert-bst-to-greater-tree.md)
+  * [450. Delete Node in a BST](tag/er-cha-shu/450.-delete-node-in-a-bst.md)
