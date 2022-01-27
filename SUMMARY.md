@@ -478,3 +478,6 @@
   * [108. Convert Sorted Array to Binary Search Tree](tag/er-cha-shu/108.-convert-sorted-array-to-binary-search-tree.md)
   * [96. Unique Binary Search Trees](tag/er-cha-shu/96.-unique-binary-search-trees.md)
   * [95. Unique Binary Search Trees II](tag/er-cha-shu/95.-unique-binary-search-trees-ii.md)
+  * [297. Serialize and Deserialize Binary Tree](tag/er-cha-shu/297.-serialize-and-deserialize-binary-tree.md)
+  * [124. Binary Tree Maximum Path Sum](tag/er-cha-shu/124.-binary-tree-maximum-path-sum.md)
+  * [103. Binary Tree Zigzag Level Order Traversal](tag/er-cha-shu/103.-binary-tree-zigzag-level-order-traversal.md)
