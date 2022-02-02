@@ -493,3 +493,7 @@
   * [1008. Construct Binary Search Tree from Preorder Traversal](tag/er-cha-shu/1008.-construct-binary-search-tree-from-preorder-traversal.md)
   * [979. Distribute Coins in Binary Tree](tag/er-cha-shu/979.-distribute-coins-in-binary-tree.md)
   * [894. All Possible Full Binary Trees](tag/er-cha-shu/894.-all-possible-full-binary-trees.md)
+  * [337. House Robber III](tag/er-cha-shu/337.-house-robber-iii.md)
+  * [129. Sum Root to Leaf Numbers](tag/er-cha-shu/129.-sum-root-to-leaf-numbers.md)
+  * [1448. Count Good Nodes in Binary Tree](tag/er-cha-shu/1448.-count-good-nodes-in-binary-tree.md)
+  * [1382. Balance a Binary Search Tree](tag/er-cha-shu/1382.-balance-a-binary-search-tree.md)
