@@ -504,3 +504,6 @@
   * [19. Remove Nth Node From End of List](tag/linkedlist/19.-remove-nth-node-from-end-of-list.md)
   * [160. Intersection of Two Linked Lists](tag/linkedlist/160.-intersection-of-two-linked-lists.md)
   * [142. Linked List Cycle II](tag/linkedlist/142.-linked-list-cycle-ii.md)
+  * [21. Merge Two Sorted Lists](tag/linkedlist/21.-merge-two-sorted-lists.md)
+  * [23. Merge k Sorted Lists](tag/linkedlist/23.-merge-k-sorted-lists.md)
+  * [876. Middle of the Linked List](tag/linkedlist/876.-middle-of-the-linked-list.md)
