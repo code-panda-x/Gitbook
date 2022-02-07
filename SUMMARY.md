@@ -510,3 +510,6 @@
   * [92. Reverse Linked List II](tag/linkedlist/92.-reverse-linked-list-ii.md)
   * [25. Reverse Nodes in k-Group](tag/linkedlist/25.-reverse-nodes-in-k-group.md)
   * [234. Palindrome Linked List](tag/linkedlist/234.-palindrome-linked-list.md)
+  * [82. Remove Duplicates from Sorted List II](tag/linkedlist/82.-remove-duplicates-from-sorted-list-ii.md)
+  * [2. Add Two Numbers](tag/linkedlist/2.-add-two-numbers.md)
+  * [147. Insertion Sort List](tag/linkedlist/147.-insertion-sort-list.md)
