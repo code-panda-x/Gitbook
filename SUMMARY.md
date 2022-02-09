@@ -513,3 +513,5 @@
   * [82. Remove Duplicates from Sorted List II](tag/linkedlist/82.-remove-duplicates-from-sorted-list-ii.md)
   * [2. Add Two Numbers](tag/linkedlist/2.-add-two-numbers.md)
   * [147. Insertion Sort List](tag/linkedlist/147.-insertion-sort-list.md)
+  * [138. Copy List with Random Pointer](tag/linkedlist/138.-copy-list-with-random-pointer.md)
+  * [716. Max Stack](tag/linkedlist/716.-max-stack.md)
