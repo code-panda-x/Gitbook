@@ -515,3 +515,4 @@
   * [147. Insertion Sort List](tag/linkedlist/147.-insertion-sort-list.md)
   * [138. Copy List with Random Pointer](tag/linkedlist/138.-copy-list-with-random-pointer.md)
   * [716. Max Stack](tag/linkedlist/716.-max-stack.md)
+  * [146. LRU Cache](tag/linkedlist/146.-lru-cache.md)
