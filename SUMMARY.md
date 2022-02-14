@@ -516,3 +516,6 @@
   * [138. Copy List with Random Pointer](tag/linkedlist/138.-copy-list-with-random-pointer.md)
   * [716. Max Stack](tag/linkedlist/716.-max-stack.md)
   * [146. LRU Cache](tag/linkedlist/146.-lru-cache.md)
+  * [706. Design HashMap](tag/linkedlist/706.-design-hashmap.md)
+  * [430. Flatten a Multilevel Doubly Linked List](tag/linkedlist/430.-flatten-a-multilevel-doubly-linked-list.md)
+  * [143. Reorder List](tag/linkedlist/143.-reorder-list.md)
