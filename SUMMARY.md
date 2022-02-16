@@ -520,3 +520,5 @@
   * [430. Flatten a Multilevel Doubly Linked List](tag/linkedlist/430.-flatten-a-multilevel-doubly-linked-list.md)
   * [143. Reorder List](tag/linkedlist/143.-reorder-list.md)
   * [328. Odd Even Linked List](tag/linkedlist/328.-odd-even-linked-list.md)
+  * [1290. Convert Binary Number in a Linked List to Integer](tag/linkedlist/1290.-convert-binary-number-in-a-linked-list-to-integer.md)
+  * [61. Rotate List](tag/linkedlist/61.-rotate-list.md)
