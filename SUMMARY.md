@@ -522,3 +522,6 @@
   * [328. Odd Even Linked List](tag/linkedlist/328.-odd-even-linked-list.md)
   * [1290. Convert Binary Number in a Linked List to Integer](tag/linkedlist/1290.-convert-binary-number-in-a-linked-list-to-integer.md)
   * [61. Rotate List](tag/linkedlist/61.-rotate-list.md)
+  * [1171. Remove Zero Sum Consecutive Nodes from Linked List](tag/linkedlist/1171.-remove-zero-sum-consecutive-nodes-from-linked-list.md)
+  * [109. Convert Sorted List to Binary Search Tree](tag/linkedlist/109.-convert-sorted-list-to-binary-search-tree.md)
+  * [148. Sort List](tag/linkedlist/148.-sort-list.md)
