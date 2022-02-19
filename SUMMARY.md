@@ -525,3 +525,7 @@
   * [1171. Remove Zero Sum Consecutive Nodes from Linked List](tag/linkedlist/1171.-remove-zero-sum-consecutive-nodes-from-linked-list.md)
   * [109. Convert Sorted List to Binary Search Tree](tag/linkedlist/109.-convert-sorted-list-to-binary-search-tree.md)
   * [148. Sort List](tag/linkedlist/148.-sort-list.md)
+  * [86. Partition List](tag/linkedlist/86.-partition-list.md)
+  * [725. Split Linked List in Parts](tag/linkedlist/725.-split-linked-list-in-parts.md)
+  * [1019. Next Greater Node In Linked List](tag/linkedlist/1019.-next-greater-node-in-linked-list.md)
+  * [1721. Swapping Nodes in a Linked List](tag/linkedlist/1721.-swapping-nodes-in-a-linked-list.md)
