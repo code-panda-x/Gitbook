@@ -20,8 +20,6 @@
   * [Math](notes/notes-1/math.md)
   * [data structure note](notes/notes-1/data-structure-note.md)
   * [Matrix](notes/notes-1/matrix.md)
-  * [BST](notes/notes-1/bst.md)
-  * [LinkedList](notes/notes-1/linkedlist.md)
   * [BFS DFS](notes/notes-1/bfs-dfs.md)
   * [位运算](notes/notes-1/wei-yun-suan.md)
   * [Digital logic](notes/notes-1/digital-logic.md)
