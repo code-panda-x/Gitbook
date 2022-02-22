@@ -534,3 +534,6 @@
   * [383. Ransom Note](tag/hashtable/383.-ransom-note.md)
   * [15. 3Sum](tag/hashtable/15.-3sum.md)
   * [18. 4Sum](tag/hashtable/18.-4sum.md)
+  * [953. Verifying an Alien Dictionary](tag/hashtable/953.-verifying-an-alien-dictionary.md)
+  * [359. Logger Rate Limiter](tag/hashtable/359.-logger-rate-limiter.md)
+  * [1002. Find Common Characters](tag/hashtable/1002.-find-common-characters.md)
