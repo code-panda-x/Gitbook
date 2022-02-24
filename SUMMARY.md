@@ -537,3 +537,6 @@
   * [953. Verifying an Alien Dictionary](tag/hashtable/953.-verifying-an-alien-dictionary.md)
   * [359. Logger Rate Limiter](tag/hashtable/359.-logger-rate-limiter.md)
   * [1002. Find Common Characters](tag/hashtable/1002.-find-common-characters.md)
+  * [3. Longest Substring Without Repeating Characters](tag/hashtable/3.-longest-substring-without-repeating-characters.md)
+  * [560. Subarray Sum Equals K](tag/hashtable/560.-subarray-sum-equals-k.md)
+  * [380. Insert Delete GetRandom O(1)](tag/hashtable/380.-insert-delete-getrandom-o-1.md)
