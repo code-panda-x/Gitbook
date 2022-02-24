@@ -6,7 +6,6 @@
 
 * [Questions](notes/questions.md)
 * [Notes](notes/notes-1/README.md)
-  * [Sliding window](notes/notes-1/sliding-window.md)
   * [General](notes/notes-1/general.md)
   * [Binary Search](notes/notes-1/binary-search.md)
   * [Queue](notes/notes-1/queue.md)
@@ -540,3 +539,7 @@
   * [3. Longest Substring Without Repeating Characters](tag/hashtable/3.-longest-substring-without-repeating-characters.md)
   * [560. Subarray Sum Equals K](tag/hashtable/560.-subarray-sum-equals-k.md)
   * [380. Insert Delete GetRandom O(1)](tag/hashtable/380.-insert-delete-getrandom-o-1.md)
+  * [49. Group Anagrams](tag/hashtable/49.-group-anagrams.md)
+  * [438. Find All Anagrams in a String](tag/hashtable/438.-find-all-anagrams-in-a-string.md)
+  * [133. Clone Graph](tag/hashtable/133.-clone-graph.md)
+  * [Page 1](tag/hashtable/page-1.md)
