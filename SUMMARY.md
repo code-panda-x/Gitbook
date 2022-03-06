@@ -542,4 +542,5 @@
   * [49. Group Anagrams](tag/hashtable/49.-group-anagrams.md)
   * [438. Find All Anagrams in a String](tag/hashtable/438.-find-all-anagrams-in-a-string.md)
   * [133. Clone Graph](tag/hashtable/133.-clone-graph.md)
-  * [Page 1](tag/hashtable/page-1.md)
+  * [127. Word Ladder](tag/hashtable/127.-word-ladder.md)
+  * [1010. Pairs of Songs With Total Durations Divisible by 60](tag/hashtable/1010.-pairs-of-songs-with-total-durations-divisible-by-60.md)
