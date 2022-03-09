@@ -544,3 +544,5 @@
   * [133. Clone Graph](tag/hashtable/133.-clone-graph.md)
   * [127. Word Ladder](tag/hashtable/127.-word-ladder.md)
   * [1010. Pairs of Songs With Total Durations Divisible by 60](tag/hashtable/1010.-pairs-of-songs-with-total-durations-divisible-by-60.md)
+  * [815. Bus Routes](tag/hashtable/815.-bus-routes.md)
+  * [588. Design In-Memory File System](tag/hashtable/588.-design-in-memory-file-system.md)
