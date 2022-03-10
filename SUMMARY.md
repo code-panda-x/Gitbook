@@ -546,3 +546,8 @@
   * [1010. Pairs of Songs With Total Durations Divisible by 60](tag/hashtable/1010.-pairs-of-songs-with-total-durations-divisible-by-60.md)
   * [815. Bus Routes](tag/hashtable/815.-bus-routes.md)
   * [588. Design In-Memory File System](tag/hashtable/588.-design-in-memory-file-system.md)
+  * [811. Subdomain Visit Count](tag/hashtable/811.-subdomain-visit-count.md)
+  * [41. First Missing Positive](tag/hashtable/41.-first-missing-positive.md)
+  * [1570. Dot Product of Two Sparse Vectors](tag/hashtable/1570.-dot-product-of-two-sparse-vectors.md)
+  * [13. Roman to Integer](tag/hashtable/13.-roman-to-integer.md)
+  * [347. Top K Frequent Elements](tag/hashtable/347.-top-k-frequent-elements.md)
