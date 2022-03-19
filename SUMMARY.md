@@ -551,3 +551,4 @@
   * [1570. Dot Product of Two Sparse Vectors](tag/hashtable/1570.-dot-product-of-two-sparse-vectors.md)
   * [13. Roman to Integer](tag/hashtable/13.-roman-to-integer.md)
   * [347. Top K Frequent Elements](tag/hashtable/347.-top-k-frequent-elements.md)
+  * [987. Vertical Order Traversal of a Binary Tree](tag/hashtable/987.-vertical-order-traversal-of-a-binary-tree.md)
