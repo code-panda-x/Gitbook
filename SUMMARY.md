@@ -552,3 +552,6 @@
   * [13. Roman to Integer](tag/hashtable/13.-roman-to-integer.md)
   * [347. Top K Frequent Elements](tag/hashtable/347.-top-k-frequent-elements.md)
   * [987. Vertical Order Traversal of a Binary Tree](tag/hashtable/987.-vertical-order-traversal-of-a-binary-tree.md)
+  * [244. Shortest Word Distance II](tag/hashtable/244.-shortest-word-distance-ii.md)
+  * [981. Time Based Key-Value Store](tag/hashtable/981.-time-based-key-value-store.md)
+  * [362. Design Hit Counter](tag/hashtable/362.-design-hit-counter.md)
