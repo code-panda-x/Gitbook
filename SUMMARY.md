@@ -555,6 +555,6 @@
   * [244. Shortest Word Distance II](tag/hashtable/244.-shortest-word-distance-ii.md)
   * [981. Time Based Key-Value Store](tag/hashtable/981.-time-based-key-value-store.md)
   * [362. Design Hit Counter](tag/hashtable/362.-design-hit-counter.md)
-  * [Page 1](tag/hashtable/page-1.md)
+  * [692. Top K Frequent Words](tag/hashtable/692.-top-k-frequent-words.md)
   * [532. K-diff Pairs in an Array](tag/hashtable/532.-k-diff-pairs-in-an-array.md)
   * [12. Integer to Roman](tag/hashtable/12.-integer-to-roman.md)
