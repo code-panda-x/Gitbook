@@ -571,4 +571,5 @@
   * [348. Design Tic-Tac-Toe](tag/hashtable/348.-design-tic-tac-toe.md)
 * [Sliding Window](tag/sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](tag/sliding-window/3.-longest-substring-without-repeating-characters.md)
-  * [Page 1](tag/sliding-window/page-1.md)
+  * [239. Sliding Window Maximum](tag/sliding-window/239.-sliding-window-maximum.md)
+  * [438. Find All Anagrams in a String](tag/sliding-window/438.-find-all-anagrams-in-a-string.md)
