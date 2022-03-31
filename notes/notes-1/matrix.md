@@ -97,3 +97,20 @@ while(l < r){
     r--;
 }
 ```
+
+
+
+判断Diagonal Anti-diagonal
+
+```
+if (row == col)
+{
+    diagonal += toAdd;
+}
+
+if (col == (cols.length - row - 1))
+{
+    antiDiagonal += toAdd;
+}
+```
+
