@@ -576,3 +576,4 @@
   * [76. Minimum Window Substring](tag/sliding-window/76.-minimum-window-substring.md)
   * [159. Longest Substring with At Most Two Distinct Characters](tag/sliding-window/159.-longest-substring-with-at-most-two-distinct-characters.md)
   * [1004. Max Consecutive Ones III](tag/sliding-window/1004.-max-consecutive-ones-iii.md)
+  * [567. Permutation in String](tag/sliding-window/567.-permutation-in-string.md)
