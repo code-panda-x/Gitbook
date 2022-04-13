@@ -573,3 +573,6 @@
   * [3. Longest Substring Without Repeating Characters](tag/sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [239. Sliding Window Maximum](tag/sliding-window/239.-sliding-window-maximum.md)
   * [438. Find All Anagrams in a String](tag/sliding-window/438.-find-all-anagrams-in-a-string.md)
+  * [76. Minimum Window Substring](tag/sliding-window/76.-minimum-window-substring.md)
+  * [159. Longest Substring with At Most Two Distinct Characters](tag/sliding-window/159.-longest-substring-with-at-most-two-distinct-characters.md)
+  * [1004. Max Consecutive Ones III](tag/sliding-window/1004.-max-consecutive-ones-iii.md)
