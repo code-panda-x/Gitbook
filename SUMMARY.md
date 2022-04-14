@@ -577,3 +577,6 @@
   * [159. Longest Substring with At Most Two Distinct Characters](tag/sliding-window/159.-longest-substring-with-at-most-two-distinct-characters.md)
   * [1004. Max Consecutive Ones III](tag/sliding-window/1004.-max-consecutive-ones-iii.md)
   * [567. Permutation in String](tag/sliding-window/567.-permutation-in-string.md)
+  * [992. Subarrays with K Different Integers](tag/sliding-window/992.-subarrays-with-k-different-integers.md)
+  * [1248. Count Number of Nice Subarrays](tag/sliding-window/1248.-count-number-of-nice-subarrays.md)
+  * [1234. Replace the Substring for Balanced String](tag/sliding-window/1234.-replace-the-substring-for-balanced-string.md)
