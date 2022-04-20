@@ -586,3 +586,5 @@
   * [340. Longest Substring with At Most K Distinct Characters](tag/sliding-window/340.-longest-substring-with-at-most-k-distinct-characters.md)
   * [1358. Number of Substrings Containing All Three Characters](tag/sliding-window/1358.-number-of-substrings-containing-all-three-characters.md)
   * [487. Max Consecutive Ones II](tag/sliding-window/487.-max-consecutive-ones-ii.md)
+* [Prefix Sum](tag/prefix-sum/README.md)
+  * [560. Subarray Sum Equals K](tag/prefix-sum/560.-subarray-sum-equals-k.md)
