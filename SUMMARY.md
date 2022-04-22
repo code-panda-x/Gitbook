@@ -588,3 +588,6 @@
   * [487. Max Consecutive Ones II](tag/sliding-window/487.-max-consecutive-ones-ii.md)
 * [Prefix Sum](tag/prefix-sum/README.md)
   * [560. Subarray Sum Equals K](tag/prefix-sum/560.-subarray-sum-equals-k.md)
+  * [303. Range Sum Query - Immutable](tag/prefix-sum/303.-range-sum-query-immutable.md)
+  * [1423. Maximum Points You Can Obtain from Cards](tag/prefix-sum/1423.-maximum-points-you-can-obtain-from-cards.md)
+  * [523. Continuous Subarray Sum](tag/prefix-sum/523.-continuous-subarray-sum.md)
