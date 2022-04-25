@@ -45,7 +45,7 @@ eg 3 / 2 + 3 % 2 = 2
 
 **快速幂**（**Exponentiation by squaring**，平方求幂）分治思想
 
-![](<../../.gitbook/assets/image (20).png>)
+<img src="../../.gitbook/assets/image (20).png" alt="" data-size="original">
 
 ```
 public int quickPow(int x, int y) {

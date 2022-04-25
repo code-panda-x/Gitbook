@@ -4,7 +4,7 @@ description: copyofrange其实是复制从 0 至 index-1个elements     （arr, 
 
 # 剑指 Offer 07. 重建二叉树
 
-![](<../../.gitbook/assets/image (35) (1) (1).png>)
+<img src="../../.gitbook/assets/image (35) (1) (1).png" alt="" data-size="original">
 
 ```
 class Solution {
