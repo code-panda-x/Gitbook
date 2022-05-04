@@ -1,0 +1,28 @@
+# Page 1
+
+```
+class Solution {
+    public int[][] matrixBlockSum(int[][] mat, int K) {
+        int m = mat.length, n = mat[0].length;
+        int[][] sum = new int[m + 1][n + 1]; // sum[i][j] is sum of all elements from rectangle (0,0,i,j) as left, top, right, bottom corresponding
+        for (int r = 1; r <= m; r++) {
+            for (int c = 1; c <= n; c++) {
+                sum[r][c] = mat[r - 1][c - 1] + sum[r - 1][c] + sum[r][c - 1] - sum[r - 1][c - 1];
+            }
+        }
+        int[][] ans = new int[m][n];
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
+                // r1 is rmin    c1 is col min
+                int r1 = Math.max(0, r - K), c1 = Math.max(0, c - K);
+                // r2 is rmax . c2 is col max
+                int r2 = Math.min(m - 1, r + K), c2 = Math.min(n - 1, c + K);
+                
+                ans[r][c] = sum[r2+1][c2+1] - sum[r2+1][c1] - sum[r1][c2+1] + sum[r1][c1];
+                            // bottom right    bottom right    // top right    // top left        
+            }
+        }
+        return ans;
+    }
+}
+```
