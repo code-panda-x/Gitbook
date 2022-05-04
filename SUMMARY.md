@@ -593,4 +593,7 @@
   * [525. Contiguous Array](tag/prefix-sum/525.-contiguous-array.md)
   * [930. Binary Subarrays With Sum](tag/prefix-sum/930.-binary-subarrays-with-sum.md)
   * [325. Maximum Size Subarray Sum Equals k](tag/prefix-sum/325.-maximum-size-subarray-sum-equals-k.md)
-  * [Page 1](tag/prefix-sum/page-1.md)
+  * [1094. Car Pooling](tag/prefix-sum/1094.-car-pooling.md)
+  * [370. Range Addition](tag/prefix-sum/370.-range-addition.md)
+  * [1413. Minimum Value to Get Positive Step by Step Sum](tag/prefix-sum/1413.-minimum-value-to-get-positive-step-by-step-sum.md)
+  * [724. Find Pivot Index](tag/prefix-sum/724.-find-pivot-index.md)
