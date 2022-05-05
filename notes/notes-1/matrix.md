@@ -64,7 +64,7 @@ int box_index = (i / 3 ) * 3 + j / 3;
 
 Matrix Transpose: Basically row becomes col, col becomes row
 
-![](<../../.gitbook/assets/image (40) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (40) (1) (1) (1) (1).png>)
 
 ```
 for (int i = 0; i < matrix.length; i++) {
