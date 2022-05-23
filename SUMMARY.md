@@ -641,3 +641,8 @@
   * [34. Find First and Last Position of Element in Sorted Array](tag/binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
   * [1011. Capacity To Ship Packages Within D Days](tag/binary-search/1011.-capacity-to-ship-packages-within-d-days.md)
   * [875. Koko Eating Bananas](tag/binary-search/875.-koko-eating-bananas.md)
+  * [658. Find K Closest Elements](tag/binary-search/658.-find-k-closest-elements.md)
+  * [278. First Bad Version](tag/binary-search/278.-first-bad-version.md)
+  * [74. Search a 2D Matrix](tag/binary-search/74.-search-a-2d-matrix.md)
+  * [1539. Kth Missing Positive Number](tag/binary-search/1539.-kth-missing-positive-number.md)
+  * [1891. Cutting Ribbons](tag/binary-search/1891.-cutting-ribbons.md)
