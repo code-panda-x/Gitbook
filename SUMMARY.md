@@ -656,3 +656,8 @@
   * [1283. Find the Smallest Divisor Given a Threshold](tag/binary-search/1283.-find-the-smallest-divisor-given-a-threshold.md)
   * [1231. Divide Chocolate](tag/binary-search/1231.-divide-chocolate.md)
   * [410. Split Array Largest Sum](tag/binary-search/410.-split-array-largest-sum.md)
+  * [441. Arranging Coins](tag/binary-search/441.-arranging-coins.md)
+  * [153. Find Minimum in Rotated Sorted Array](tag/binary-search/153.-find-minimum-in-rotated-sorted-array.md)
+  * [154. Find Minimum in Rotated Sorted Array II](tag/binary-search/154.-find-minimum-in-rotated-sorted-array-ii.md)
+  * [852. Peak Index in a Mountain Array](tag/binary-search/852.-peak-index-in-a-mountain-array.md)
+  * [1095. Find in Mountain Array](tag/binary-search/1095.-find-in-mountain-array.md)
