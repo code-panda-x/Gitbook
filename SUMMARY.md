@@ -693,3 +693,6 @@
   * [417](tag/graph/417.md)
   * [733. Flood Fill](tag/graph/733.-flood-fill.md)
   * [463. Island Perimeter](tag/graph/463.-island-perimeter.md)
+  * [286. Walls and Gates](tag/graph/286.-walls-and-gates.md)
+  * [1267. Count Servers that Communicate](tag/graph/1267.-count-servers-that-communicate.md)
+  * [1559. Detect Cycles in 2D Grid](tag/graph/1559.-detect-cycles-in-2d-grid.md)
