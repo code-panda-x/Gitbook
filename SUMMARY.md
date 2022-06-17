@@ -705,3 +705,6 @@
   * [140. Word Break II](tag/graph-matrix-dfs-bfs/140.-word-break-ii.md)
   * [472. Concatenated Words](tag/graph-matrix-dfs-bfs/472.-concatenated-words.md)
   * [329. Longest Increasing Path in a Matrix](tag/graph-matrix-dfs-bfs/329.-longest-increasing-path-in-a-matrix.md)
+  * [51. N-Queens](tag/graph-matrix-dfs-bfs/51.-n-queens.md)
+  * [排列组合](tag/graph-matrix-dfs-bfs/pai-lie-zu-he.md)
+  * [17. Letter Combinations of a Phone Number](tag/graph-matrix-dfs-bfs/17.-letter-combinations-of-a-phone-number.md)
