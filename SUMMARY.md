@@ -725,3 +725,6 @@
   * [509. Fibonacci Number](tag/dp/509.-fibonacci-number.md)
   * [70. Climbing Stairs](tag/dp/70.-climbing-stairs.md)
   * [746. Min Cost Climbing Stairs](tag/dp/746.-min-cost-climbing-stairs.md)
+  * [62. Unique Paths](tag/dp/62.-unique-paths.md)
+  * [63. Unique Paths II](tag/dp/63.-unique-paths-ii.md)
+  * [343. Integer Break](tag/dp/343.-integer-break.md)
