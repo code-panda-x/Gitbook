@@ -728,3 +728,4 @@
   * [62. Unique Paths](tag/dp/62.-unique-paths.md)
   * [63. Unique Paths II](tag/dp/63.-unique-paths-ii.md)
   * [343. Integer Break](tag/dp/343.-integer-break.md)
+  * [96. Unique Binary Search Trees](tag/dp/96.-unique-binary-search-trees.md)
