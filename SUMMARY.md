@@ -641,6 +641,7 @@
   * [278. First Bad Version](tag/binary-search/278.-first-bad-version.md)
   * [74. Search a 2D Matrix](tag/binary-search/74.-search-a-2d-matrix.md)
   * [1539. Kth Missing Positive Number](tag/binary-search/1539.-kth-missing-positive-number.md)
+  * [300. Longest Increasing Subsequence](tag/binary-search/300.-longest-increasing-subsequence.md)
   * [1891. Cutting Ribbons](tag/binary-search/1891.-cutting-ribbons.md)
   * [69. Sqrt(x)](tag/binary-search/69.-sqrt-x.md)
   * [378. Kth Smallest Element in a Sorted Matrix](tag/binary-search/378.-kth-smallest-element-in-a-sorted-matrix.md)
