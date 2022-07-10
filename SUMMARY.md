@@ -732,3 +732,4 @@
   * [96. Unique Binary Search Trees](tag/dp/96.-unique-binary-search-trees.md)
   * [416. Partition Equal Subset Sum](tag/dp/416.-partition-equal-subset-sum.md)
   * [1049. Last Stone Weight II](tag/dp/1049.-last-stone-weight-ii.md)
+  * [494. Target Sum](tag/dp/494.-target-sum.md)
