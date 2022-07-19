@@ -2,23 +2,6 @@
 
 * [Leetcode](README.md)
 
-## Notes
-
-* [Questions](notes/questions.md)
-* [Notes](notes/notes-1/README.md)
-  * [Queue](notes/notes-1/queue.md)
-  * [Sort](notes/notes-1/sort.md)
-  * [DP](notes/notes-1/dp.md)
-  * [HEAP](notes/notes-1/heap.md)
-  * [array](notes/notes-1/common-solutions.md)
-  * [Character](notes/notes-1/character.md)
-  * [Math](notes/notes-1/math.md)
-  * [data structure note](notes/notes-1/data-structure-note.md)
-  * [位运算](notes/notes-1/wei-yun-suan.md)
-  * [Digital logic](notes/notes-1/digital-logic.md)
-  * [Trie](notes/notes-1/trie.md)
-  * [Sort](notes/notes-1/sort-1.md)
-
 ## Leetcode
 
 * [Leetcode Top 100](leetcode/untitled/README.md)
