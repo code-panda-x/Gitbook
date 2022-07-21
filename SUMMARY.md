@@ -738,3 +738,8 @@
   * [1035. Uncrossed Lines](tag/dp/1035.-uncrossed-lines.md)
   * [53. Maximum Subarray](tag/dp/53.-maximum-subarray.md)
   * [392. Is Subsequence](tag/dp/392.-is-subsequence.md)
+  * [115. Distinct Subsequences](tag/dp/115.-distinct-subsequences.md)
+  * [583. Delete Operation for Two Strings](tag/dp/583.-delete-operation-for-two-strings.md)
+  * [72. Edit Distance](tag/dp/72.-edit-distance.md)
+  * [647. Palindromic Substrings](tag/dp/647.-palindromic-substrings.md)
+  * [5. Longest Palindromic Substring](tag/dp/5.-longest-palindromic-substring.md)
