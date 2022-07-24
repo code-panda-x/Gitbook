@@ -743,3 +743,6 @@
   * [72. Edit Distance](tag/dp/72.-edit-distance.md)
   * [647. Palindromic Substrings](tag/dp/647.-palindromic-substrings.md)
   * [5. Longest Palindromic Substring](tag/dp/5.-longest-palindromic-substring.md)
+  * [64. Minimum Path Sum](tag/dp/64.-minimum-path-sum.md)
+  * [931. Minimum Falling Path Sum](tag/dp/931.-minimum-falling-path-sum.md)
+  * [28. Implement strStr()](tag/dp/28.-implement-strstr.md)
