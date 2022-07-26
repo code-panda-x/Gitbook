@@ -746,3 +746,5 @@
   * [64. Minimum Path Sum](tag/dp/64.-minimum-path-sum.md)
   * [931. Minimum Falling Path Sum](tag/dp/931.-minimum-falling-path-sum.md)
   * [28. Implement strStr()](tag/dp/28.-implement-strstr.md)
+  * [516. Longest Palindromic Subsequence](tag/dp/516.-longest-palindromic-subsequence.md)
+  * [1332. Remove Palindromic Subsequences](tag/dp/1332.-remove-palindromic-subsequences.md)
