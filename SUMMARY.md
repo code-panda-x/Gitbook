@@ -754,3 +754,5 @@
   * [54. Spiral Matrix](tag/matrix/54.-spiral-matrix.md)
   * [59. Spiral Matrix II](tag/matrix/59.-spiral-matrix-ii.md)
   * [73. Set Matrix Zeroes](tag/matrix/73.-set-matrix-zeroes.md)
+  * [1275. Find Winner on a Tic Tac Toe Game](tag/matrix/1275.-find-winner-on-a-tic-tac-toe-game.md)
+  * [832. Flipping an Image](tag/matrix/832.-flipping-an-image.md)
