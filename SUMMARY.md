@@ -765,3 +765,6 @@
   * [496. Next Greater Element I](tag/stack-and-queue/496.-next-greater-element-i.md)
   * [739. Daily Temperatures](tag/stack-and-queue/739.-daily-temperatures.md)
   * [503. Next Greater Element II](tag/stack-and-queue/503.-next-greater-element-ii.md)
+  * [155. Min Stack](tag/stack-and-queue/155.-min-stack.md)
+  * [1472. Design Browser History](tag/stack-and-queue/1472.-design-browser-history.md)
+  * [1209. Remove All Adjacent Duplicates in String II](tag/stack-and-queue/1209.-remove-all-adjacent-duplicates-in-string-ii.md)
