@@ -768,3 +768,5 @@
   * [155. Min Stack](tag/stack-and-queue/155.-min-stack.md)
   * [1472. Design Browser History](tag/stack-and-queue/1472.-design-browser-history.md)
   * [1209. Remove All Adjacent Duplicates in String II](tag/stack-and-queue/1209.-remove-all-adjacent-duplicates-in-string-ii.md)
+  * [1249. Minimum Remove to Make Valid Parentheses](tag/stack-and-queue/1249.-minimum-remove-to-make-valid-parentheses.md)
+  * [735. Asteroid Collision](tag/stack-and-queue/735.-asteroid-collision.md)
