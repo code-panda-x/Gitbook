@@ -770,3 +770,6 @@
   * [1209. Remove All Adjacent Duplicates in String II](tag/stack-and-queue/1209.-remove-all-adjacent-duplicates-in-string-ii.md)
   * [1249. Minimum Remove to Make Valid Parentheses](tag/stack-and-queue/1249.-minimum-remove-to-make-valid-parentheses.md)
   * [735. Asteroid Collision](tag/stack-and-queue/735.-asteroid-collision.md)
+  * [682. Baseball Game](tag/stack-and-queue/682.-baseball-game.md)
+  * [71. Simplify Path](tag/stack-and-queue/71.-simplify-path.md)
+  * [32. Longest Valid Parentheses](tag/stack-and-queue/32.-longest-valid-parentheses.md)
