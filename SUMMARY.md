@@ -776,3 +776,6 @@
   * [394. Decode String](tag/stack-and-queue/394.-decode-string.md)
   * [1021. Remove Outermost Parentheses](tag/stack-and-queue/1021.-remove-outermost-parentheses.md)
   * [895. Maximum Frequency Stack](tag/stack-and-queue/895.-maximum-frequency-stack.md)
+  * [346. Moving Average from Data Stream](tag/stack-and-queue/346.-moving-average-from-data-stream.md)
+  * [281. Zigzag Iterator](tag/stack-and-queue/281.-zigzag-iterator.md)
+  * [1429. First Unique Number](tag/stack-and-queue/1429.-first-unique-number.md)
