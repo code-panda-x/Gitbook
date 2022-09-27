@@ -774,5 +774,5 @@
   * [71. Simplify Path](tag/stack-and-queue/71.-simplify-path.md)
   * [32. Longest Valid Parentheses](tag/stack-and-queue/32.-longest-valid-parentheses.md)
   * [394. Decode String](tag/stack-and-queue/394.-decode-string.md)
-  * [341. Flatten Nested List Iterator](tag/stack-and-queue/341.-flatten-nested-list-iterator.md)
   * [1021. Remove Outermost Parentheses](tag/stack-and-queue/1021.-remove-outermost-parentheses.md)
+  * [895. Maximum Frequency Stack](tag/stack-and-queue/895.-maximum-frequency-stack.md)
