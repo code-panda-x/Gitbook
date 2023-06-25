@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Leetcode](README.md)
+* [LC Contest](lc-contest/README.md)
+  * [351](lc-contest/351.md)
 
 ## Leetcode
 
