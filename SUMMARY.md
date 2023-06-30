@@ -617,6 +617,7 @@
   * [759. Employee Free Time](tag/sorting/759.-employee-free-time.md)
   * [871. Minimum Number of Refueling Stops](tag/sorting/871.-minimum-number-of-refueling-stops.md)
   * [1046. Last Stone Weight](tag/sorting/1046.-last-stone-weight.md)
+  * [1094 Car pooling](tag/sorting/1094-car-pooling.md)
 * [Binary Search](tag/binary-search/README.md)
   * [33. Search in Rotated Sorted Array](tag/binary-search/33.-search-in-rotated-sorted-array.md)
   * [162. Find Peak Element](tag/binary-search/162.-find-peak-element.md)
