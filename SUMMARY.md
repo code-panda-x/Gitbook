@@ -681,6 +681,7 @@
   * [463. Island Perimeter](tag/graph-matrix-dfs-bfs/463.-island-perimeter.md)
   * [286. Walls and Gates](tag/graph-matrix-dfs-bfs/286.-walls-and-gates.md)
   * [317. Shortest Distance from All Buildings](tag/graph-matrix-dfs-bfs/317.-shortest-distance-from-all-buildings.md)
+  * [1730. Shortest Path to Get Food](tag/graph-matrix-dfs-bfs/1730.-shortest-path-to-get-food.md)
   * [1267. Count Servers that Communicate](tag/graph-matrix-dfs-bfs/1267.-count-servers-that-communicate.md)
   * [1559. Detect Cycles in 2D Grid](tag/graph-matrix-dfs-bfs/1559.-detect-cycles-in-2d-grid.md)
   * [291. Word Pattern II](tag/graph-matrix-dfs-bfs/291.-word-pattern-ii.md)
