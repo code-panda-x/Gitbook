@@ -732,7 +732,7 @@
   * [337. House Robber III](tag/dp/337.-house-robber-iii.md)
   * [121. Best Time to Buy and Sell Stock](tag/dp/121.-best-time-to-buy-and-sell-stock.md)
   * [122. Best Time to Buy and Sell Stock II](tag/dp/122.-best-time-to-buy-and-sell-stock-ii.md)
-  * [188. Best Time to Buy and Sell Stock III](tag/dp/188.-best-time-to-buy-and-sell-stock-iii.md)
+  * [123. Best Time to Buy and Sell Stock III](tag/dp/123.-best-time-to-buy-and-sell-stock-iii.md)
   * [188. Best Time to Buy and Sell Stock IV](tag/dp/188.-best-time-to-buy-and-sell-stock-iv.md)
   * [309. Best Time to Buy and Sell Stock with Cooldown](tag/dp/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
   * [714. Best Time to Buy and Sell Stock with Transaction Fee](tag/dp/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
