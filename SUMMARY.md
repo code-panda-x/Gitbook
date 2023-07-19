@@ -585,6 +585,7 @@
   * [1314. Matrix Block Sum](tag/prefix-sum/1314.-matrix-block-sum.md)
 * [Sorting](tag/sorting/README.md)
   * [56. Merge Intervals](tag/sorting/56.-merge-intervals.md)
+  * [435. Non-overlapping Intervals](tag/sorting/435.-non-overlapping-intervals.md)
   * [252. Meeting Rooms](tag/sorting/252.-meeting-rooms.md)
   * [253. Meeting Rooms II](tag/sorting/253.-meeting-rooms-ii.md)
   * [15. 3Sum](tag/sorting/15.-3sum.md)
