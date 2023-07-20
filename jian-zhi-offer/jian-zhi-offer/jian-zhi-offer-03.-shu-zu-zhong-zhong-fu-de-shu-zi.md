@@ -18,7 +18,7 @@ class Solution {
 
 原地交换，index映射
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 ```
 class Solution {
