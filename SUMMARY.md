@@ -719,6 +719,8 @@
   * [261. Graph Valid Tree](tag/graph-matrix-dfs-bfs/261.-graph-valid-tree.md)
   * [841. Keys and Rooms](tag/graph-matrix-dfs-bfs/841.-keys-and-rooms.md)
   * [547. Number of Provinces](tag/graph-matrix-dfs-bfs/547.-number-of-provinces.md)
+  * [2328. Number of Increasing Paths in a Grid](tag/graph-matrix-dfs-bfs/2328.-number-of-increasing-paths-in-a-grid.md)
+  * [980. Unique Paths III](tag/graph-matrix-dfs-bfs/980.-unique-paths-iii.md)
 * [DP](tag/dp/README.md)
   * [509. Fibonacci Number](tag/dp/509.-fibonacci-number.md)
   * [70. Climbing Stairs](tag/dp/70.-climbing-stairs.md)
